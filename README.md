@@ -1,1 +1,1 @@
-https://github.com/Wnlme/Weather-app.github.io/tree/main
+https://wnlme.github.io/Weather-app.github.io/
